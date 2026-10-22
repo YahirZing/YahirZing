@@ -26,7 +26,7 @@ Mis proyectos
 
 Actualmente estoy aprendiendo a desarrollar mis propios proyectos utilizando herramientas de programación y diseño de software.
 
-Puedes consultar mis avances en "mi perfil de GitHub" (https://github.com/).
+Puedes consultar mis avances en "mi perfil de GitHub" (https://github.com/YahirZing).
 
 Contacto
 
